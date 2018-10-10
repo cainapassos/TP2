@@ -1,2 +1,7 @@
-# TP2
-Segundo Trabalho da Disciplina INFO 7015
+Sourdough: example classes for network programming
+
+To build:
+
+	$ ./autogen.sh
+	$ ./configure
+	$ make
