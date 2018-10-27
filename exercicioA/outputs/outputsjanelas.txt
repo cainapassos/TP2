@@ -1,0 +1,79 @@
+JANELA 10
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.89 Mbits/s (37.4% utilization)
+95th percentile per-packet queueing delay: 56 ms
+95th percentile signal delay: 153 ms
+Power: 12.33
+
+JANELA 20
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.13 Mbits/s (62.0% utilization)
+95th percentile per-packet queueing delay: 97 ms
+95th percentile signal delay: 274 ms
+Power: 11.42
+
+JANELA 30
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.00 Mbits/s (79.3% utilization)
+95th percentile per-packet queueing delay: 141 ms
+95th percentile signal delay: 400 ms
+Power: 10.00
+
+JANELA 40
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.45 Mbits/s (88.2% utilization)
+95th percentile per-packet queueing delay: 190 ms
+95th percentile signal delay: 500 ms
+Power: 8.90
+
+JANELA 50
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.72 Mbits/s (93.5% utilization)
+95th percentile per-packet queueing delay: 237 ms
+95th percentile signal delay: 605 ms
+Power: 7.79
+
+JANELA 60
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.87 Mbits/s (96.6% utilization)
+95th percentile per-packet queueing delay: 289 ms
+95th percentile signal delay: 712 ms
+Power: 6.84
+
+JANELA 70
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.94 Mbits/s (98.1% utilization)
+95th percentile per-packet queueing delay: 342 ms
+95th percentile signal delay: 808 ms
+Power: 6.12
+
+JANELA 80
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.96 Mbits/s (98.4% utilization)
+95th percentile per-packet queueing delay: 402 ms
+95th percentile signal delay: 894 ms
+Power: 5.55
+
+JANELA 90
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.99 Mbits/s (99.1% utilization)
+95th percentile per-packet queueing delay: 458 ms
+95th percentile signal delay: 970 ms
+Power: 5.15
+
+JANELA 100
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 5.01 Mbits/s (99.3% utilization)
+95th percentile per-packet queueing delay: 513 ms
+95th percentile signal delay: 1052 ms
+Power: 4.76
