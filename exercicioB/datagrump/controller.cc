@@ -8,6 +8,8 @@ using namespace std;
 
 bool slow_start = true;
 double the_window_size = 10.0;
+double alfa = 1;
+double beta = 0.5;
 
 /* Default constructor */
 Controller::Controller( const bool debug )
@@ -61,15 +63,15 @@ uint64_t rtt = timestamp_ack_received - send_timestamp_acked;
 if (rtt <= timeout_ms()){
 	//slow start	
 	if (slow_start){
-		the_window_size += 1.0;
+		the_window_size += alfa;
 	}else{
 	    //congestion avoidance        
-	    the_window_size += 1.0/the_window_size;
+	    the_window_size += alfa/the_window_size;
 	}
 }else{
     slow_start = false;
 	//congestionamento detectado
-	the_window_size /=2;
+	the_window_size *= beta;
 	if (the_window_size < 1) the_window_size = 1.0;
 }
 //Fim Desenvolvimento
