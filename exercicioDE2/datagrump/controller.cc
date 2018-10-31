@@ -35,6 +35,7 @@ void Controller::datagram_was_sent( const uint64_t sequence_number,
 				    /* of the sent datagram */
 				    const uint64_t send_timestamp,
                                     /* in milliseconds */
+				    /*Adicionado opção de reenvio após um timeout*/
 				    const bool after_timeout
 				    /* datagram was sent because of a timeout */ )
 {
