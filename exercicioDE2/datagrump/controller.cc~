@@ -8,7 +8,7 @@ using namespace std;
 
 bool slow_start = true;
 double the_window_size = 10.0;
-double menor_acked = 99999; //Menor valor acknowledged OWD (One Way Delay) 
+double menor_acked = 99999; //Menor tempo BBR.RTProp
 double menor_rtt = 99999; //salva menor rtt para avoidance
 
 /* Default constructor */

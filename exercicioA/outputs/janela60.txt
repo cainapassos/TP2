@@ -1,0 +1,83 @@
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.79 Mbits/s (95.1% utilization)
+95th percentile per-packet queueing delay: 293 ms
+95th percentile signal delay: 711 ms
+Power: 6.74 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.88 Mbits/s (96.8% utilization)
+95th percentile per-packet queueing delay: 289 ms
+95th percentile signal delay: 709 ms
+Power: 6.88 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.78 Mbits/s (94.9% utilization)
+95th percentile per-packet queueing delay: 287 ms
+95th percentile signal delay: 707 ms
+Power: 6.77 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.81 Mbits/s (95.4% utilization)
+95th percentile per-packet queueing delay: 288 ms
+95th percentile signal delay: 711 ms
+Power: 6.77 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.83 Mbits/s (95.8% utilization)
+95th percentile per-packet queueing delay: 289 ms
+95th percentile signal delay: 710 ms
+Power: 6.80 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.86 Mbits/s (96.4% utilization)
+95th percentile per-packet queueing delay: 288 ms
+95th percentile signal delay: 710 ms
+Power: 6.84 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.84 Mbits/s (96.0% utilization)
+95th percentile per-packet queueing delay: 289 ms
+95th percentile signal delay: 709 ms
+Power: 6.83 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.84 Mbits/s (96.0% utilization)
+95th percentile per-packet queueing delay: 292 ms
+95th percentile signal delay: 710 ms
+Power: 6.81 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.84 Mbits/s (96.0% utilization)
+95th percentile per-packet queueing delay: 292 ms
+95th percentile signal delay: 710 ms
+Power: 6.82 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.81 Mbits/s (95.5% utilization)
+95th percentile per-packet queueing delay: 292 ms
+95th percentile signal delay: 710 ms
+Power: 6.78 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.86 Mbits/s (96.3% utilization)
+95th percentile per-packet queueing delay: 290 ms
+95th percentile signal delay: 711 ms
+Power: 6.83 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.82 Mbits/s (95.5% utilization)
+95th percentile per-packet queueing delay: 291 ms
+95th percentile signal delay: 707 ms
+Power: 6.81 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.87 Mbits/s (96.7% utilization)
+95th percentile per-packet queueing delay: 290 ms
+95th percentile signal delay: 711 ms
+Power: 6.85 
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.86 Mbits/s (96.4% utilization)
+95th percentile per-packet queueing delay: 289 ms
+95th percentile signal delay: 710 ms
+Power: 6.84 

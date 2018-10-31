@@ -1,0 +1,237 @@
+AIMD ALTERANDO ALFA / BETA / TIMEOUT PARA RETRANSMISSÃO = 80ms
+
+alfa = 1.00
+beta = 0.25
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.79 Mbits/s (35.5% utilization)
+95th percentile per-packet queueing delay: 31 ms
+95th percentile signal delay: 86 ms
+Power: 20.82
+
+
+alfa = 1.00
+beta = 0.40
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.89 Mbits/s (37.6% utilization)
+95th percentile per-packet queueing delay: 32 ms
+95th percentile signal delay: 84 ms
+Power: 22.54
+
+alfa = 1.00
+beta = 0.50
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.83 Mbits/s (36.3% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 88 ms
+Power: 20.81
+
+alfa = 1.00
+beta = 0.60
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.93 Mbits/s (38.3% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 87 ms
+Power: 22.17
+
+alfa = 1.00
+beta = 0.75
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.97 Mbits/s (39.1% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 88 ms
+Power: 22.39
+
+===============================================
+
+alfa = 0.75
+beta = 0.25
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.53 Mbits/s (30.4% utilization)
+95th percentile per-packet queueing delay: 30 ms
+95th percentile signal delay: 87 ms
+Power: 17.62
+
+alfa = 0.75
+beta = 0.40
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.67 Mbits/s (33.2% utilization)
+95th percentile per-packet queueing delay: 28 ms
+95th percentile signal delay: 86 ms
+Power: 19.44
+
+alfa = 0.75
+beta = 0.50
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.60 Mbits/s (31.7% utilization)
+95th percentile per-packet queueing delay: 31 ms
+95th percentile signal delay: 91 ms
+Power: 17.54
+
+alfa = 0.75
+beta = 0.60
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.65 Mbits/s (32.7% utilization)
+95th percentile per-packet queueing delay: 30 ms
+95th percentile signal delay: 87 ms
+Power: 18.96
+
+alfa = 0.75
+beta = 0.75
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.75 Mbits/s (34.7% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 86 ms
+Power: 20.37
+
+================================================
+alfa = 0.50
+beta = 0.25
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.38 Mbits/s (27.3% utilization)
+95th percentile per-packet queueing delay: 25 ms
+95th percentile signal delay: 81 ms
+Power: 17.01
+
+alfa = 0.50
+beta = 0.40
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.33 Mbits/s (26.4% utilization)
+95th percentile per-packet queueing delay: 27 ms
+95th percentile signal delay: 90 ms
+Power: 14.79
+
+alfa = 0.50
+beta = 0.50
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.37 Mbits/s (27.3% utilization)
+95th percentile per-packet queueing delay: 30 ms
+95th percentile signal delay: 87 ms
+Power: 15.80
+
+alfa = 0.50
+beta = 0.60
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.44 Mbits/s (28.6% utilization)
+95th percentile per-packet queueing delay: 26 ms
+95th percentile signal delay: 94 ms
+Power: 15.32
+
+alfa = 0.50
+beta = 0.75
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.48 Mbits/s (29.4% utilization)
+95th percentile per-packet queueing delay: 29 ms
+95th percentile signal delay: 82 ms
+Power: 18.08
+
+========================================
+alfa = 0.25
+beta = 0.25
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.91 Mbits/s (18.0% utilization)
+95th percentile per-packet queueing delay: 23 ms
+95th percentile signal delay: 87 ms
+Power: 10.43
+
+alfa = 0.25
+beta = 0.40
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.94 Mbits/s (18.6% utilization)
+95th percentile per-packet queueing delay: 23 ms
+95th percentile signal delay: 80 ms
+Power: 11.69
+
+alfa = 0.25
+beta = 0.50
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.00 Mbits/s (19.8% utilization)
+95th percentile per-packet queueing delay: 23 ms
+95th percentile signal delay: 82 ms
+Power: 12.18
+
+alfa = 0.25
+beta = 0.60
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.02 Mbits/s (20.3% utilization)
+95th percentile per-packet queueing delay: 23 ms
+95th percentile signal delay: 83 ms
+Power: 12.35
+
+alfa = 0.25
+beta = 0.75
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.09 Mbits/s (21.7% utilization)
+95th percentile per-packet queueing delay: 26 ms
+95th percentile signal delay: 80 ms
+Power: 13.64
+
+==============================================================================
+
+alfa = 1.00
+beta = 0.75
+timeout = 90 ms
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.14 Mbits/s (42.5% utilization)
+95th percentile per-packet queueing delay: 38 ms
+95th percentile signal delay: 92 ms
+Power: 23.30
+
+==============================================================================
+
+alfa = 1.00
+beta = 0.75
+timeout = 100 ms
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.56 Mbits/s (50.9% utilization)
+95th percentile per-packet queueing delay: 46 ms
+95th percentile signal delay: 97 ms
+Power: 26.43
+
+===============================================================================
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.74 Mbits/s (54.4% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 110 ms
+Power: 24.92
+
+=================================================================================
+
+alfa = 1.00
+beta = 0.75
+timeout = 120 ms
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.05 Mbits/s (60.6% utilization)
+95th percentile per-packet queueing delay: 63 ms
+95th percentile signal delay: 118 ms
+Power: 25.89
+
+
+
+
+
+
+
